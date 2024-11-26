@@ -1,6 +1,1 @@
-
-
-
-
-
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/youmoumn" alt="youmoumn's 42 stats" /></a>
+<img style="display: block; width: 100%; height: auto;" onload="javascript: show_card();" id="example" src=<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/youmoumn" alt="youmoumn's 42 stats" /></a> title="42 Badge" alt="42 Badge" onerror="change_etaps(1);alert('Enter a valid username');this.src='https://badge.mediaplus.ma/'+theme+'/oakoudad';">
