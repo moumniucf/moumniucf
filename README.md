@@ -1,2 +1,2 @@
-<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/youmoumn" alt="youmoumn's 42 stats" /></a><img src="https://raw.githubusercontent.com/burak-yldrm/burak-yldrm/refs/heads/main/rasengan_particles.gif">
-<img src="https://camo.githubusercontent.com/651a2211315e77b88e44731af8df717ab69201b50cc0cd275ff3603cc4ab15bb/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d74656464792d3435267468656d653d746f6b796f6e6967687426686964655f626f726465723d7472756526696e636c7564655f616c6c5f636f6d6d6974733d66616c736526636f756e745f707269766174653d74727565">
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/levi/youmoumn" alt="youmoumn's 42 stats" /></a>
+<img src="https://raw.githubusercontent.com/burak-yldrm/burak-yldrm/refs/heads/main/rasengan_particles.gif">
