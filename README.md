@@ -8,7 +8,7 @@
       display: block;
       margin-left: auto;
       margin-right: auto;
-      width: 50%; /* t9der tbddlha 7asab ch7al bghiti size */
+      width: 50%;
     }
   </style>
 </head>
