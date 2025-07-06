@@ -11,7 +11,7 @@
       display: flex;
       justify-content: center;
       align-items: center;
-      height: 100vh; /* katdkhl l image fl middle verticalement zada */
+      height: 100vh; /* height 100% dial screen */
     }
   </style>
 </head>
@@ -23,3 +23,4 @@
 
 </body>
 </html>
+
